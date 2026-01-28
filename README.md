@@ -1,3 +1,2 @@
 <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=Haavaala&show_icons=false&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="48%"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haavaala&layout=compact&theme=transparent&hide_border=true" width="48%"/></p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haavaala&theme=transparent" />
-<img src="https://streak-stats.demolab.com?user=Haavaala&theme=transparent&hide_border=true" />
+<img src="https://ghchart.rshah.org/transparent/Haavaala" />
